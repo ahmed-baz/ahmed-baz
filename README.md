@@ -15,9 +15,15 @@
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,git,github,gitlab,maven,mysql,postgres,mongo,postman,idea,docker,kubernetes,linux,jenkins,grafana,aws,githubactions,redis,angular,html,css" />
   </a>
 </p>
-
-
-<div id="user-content-toc">
+<div align="center">
+<a href="https://github.com/ali-bouali">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed-baz&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed-baz&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-baz&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed-baz&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-baz&theme=2077" height="180em" />
+</div>
+  <div id="user-content-toc">
    <ul align="center">
       <summary>
          <h2 style="display: inline-block">Add me on Linkedin</h2>
