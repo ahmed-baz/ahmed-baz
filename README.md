@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋
+- 👋 I’m Ahmed Baz
+- 💻 I'm a Java developer with +5 years of hands-on experience in designing, modifying, developing, and implementing Java web applications, and enterprise solutions
+- 🔭 Now, I’m working as a Java Backend Developer for STC
+- 🌱 I’m currently learning more about microservices & distributed systems
+- 📫 How to reach me: via my email developer.baz@gmail.com
 
-<!--
-**ahmed-baz/ahmed-baz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="user-content-toc">
+  <ul align="center"> 
+    <summary><h2 style="display: inline-block">used technologies & software skills</h2></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,git,github,gitlab,maven,mysql,postgres,mongo,postman,idea,docker,kubernetes,linux,jenkins,grafana,aws,githubactions,redis,angular,html,css" />
+  </a>
+</p>
+<div align="center">
+<a href="https://github.com/ahmed-baz">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed-baz&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed-baz&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-baz&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed-baz&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-baz&theme=2077" height="180em" />
+</div>
+  <div id="user-content-toc">
+   <ul align="center">
+      <summary>
+         <h2 style="display: inline-block">Add me on Linkedin</h2>
+      </summary>
+   </ul>
+</div>
+<p align="center">
+   <a href="https://www.linkedin.com/in/ahmedbaz1024" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
