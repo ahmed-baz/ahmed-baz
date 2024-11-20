@@ -24,3 +24,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-baz&theme=2077" height="180em" />
 <br/><br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-baz" alt="ahmed-baz" /></a> </p>
+<br/><br/>
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-baz&" alt="ahmed-baz"/></p>
+
